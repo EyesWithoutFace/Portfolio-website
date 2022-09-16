@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> da7bb844f4648064362b10c0b929c89908c65350
 # Portfolio Website
 Portfolio built to host the project links, bio, and information regarding projects
 
