@@ -1,0 +1,110 @@
+h1 {
+    text-align: center;
+    font-family: Bebas Neue;
+}
+
+h2 {
+    border-bottom: 2px solid black;
+    width: 50%;
+    font-family: Bebas Neue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+p {
+text-align: center;
+
+}
+
+.kitten-dima {
+width: 24.29%;
+margin: 0px 0px 0px 15%;
+}
+
+.peekaboo-dima {
+    width: 25%;
+}
+
+.utility-dima {
+    width: 25%
+}
+
+.dima-dresser {
+    width: 25%;
+    height: 306px;
+    margin: 0px 0px 0px 15%;
+}
+
+.dima-cat-tree {
+    width: 25%;
+}
+
+.dima-litter {
+    width: 25%;
+    height: 306px;
+}
+
+ img {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 0px;
+}
+
+.dima-x-ray {
+    width: 25%;
+}
+
+.dima-rest {
+    width: 25%;
+}
+
+.dima-cone {
+    width: 25%;
+    height: 308px;
+}
+
+.journey {
+    margin: 20px 50%;
+}
+
+.dima-stitches {
+    width: 25%;
+}
+
+.dima-laying-sideways {
+    width: 25%;
+}
+
+.dima-sunlight {
+    width: 25%;
+}
+
+.dima-stare {
+    width: 25%;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    font-family: Bebas Neue;
+    font-size: 25px;
+    margin: 0px 10px 0px 60px;
+    bottom: 0px;
+    width: 100%;
+    
+}
+ ul {
+    display: block ruby;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    width: 100%;
+     position: fixed;
+     bottom: 0px;
+ }
+
+ nav {
+    
+ }
