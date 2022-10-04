@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+  background-color: #d9d9d9;
+}
+
+nav {
+  background-color: #000000;
+  color: #d9d9d9;
+  font-family: Bebas Neue;
+  font-size: 200%;
+  position: fixed;
+  width: 100%;
+  padding-left: 20px;
+}
+
+
+nav li {
+  padding: 10px;
+  display: unset;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: Bebas Neue;
+}
+
+h2 {
+  font-family: Bebas Neue;
+  text-align: center;
+  border-bottom: 2.5px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-style: solid;
+  padding-top: 130px;
+}
+
+p {
+  color: black;
+  font-family: Roboto;
+  font-size: 18px;
+  text-align: center;
+}
+
+#projects a {
+  text-decoration: none;
+  font-family: Bebas Neue;
+  display: grid;
+  justify-content: right;
+}
+
+li {
+  list-style: none;
+}
+
+#projects {
+text-align: right;
+display: grid;
+grid-area: 3;
+}
+
+a {
+  margin: 10px;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px 0px;
+}
+
+@media only screen and (max-width: 480px) {
+  a {
+      margin: 5px 5%;
+  }
+}
+
+#skills img{
+  display: grid;
+  grid-template-columns: 2;
+
+}
+
+img {
+  height: 10%;
+  width: 10%;
+  margin: 25px;
+}
+
+@media only screen and (max-width: 480px) {
+  img {
+      margin: 8px !important;
+  }
+}
+.mission-statement {
+  display: block;
+  grid-row: 3;
+}
+
+.project-title {
+  margin-left: 50%;
+}
+
+.mission-title {
+  display: inline-block;
+  margin-right: 50%;
+  width: 50%;
+}
+.missionp {
+  display: inline;
+}
+

@@ -1,8 +1,19 @@
-header {
-    background-color: #737373;
-    display: flex;
-    justify-content: center;
+html {
+    background-color: #d9d9d9;
+}
 
+nav {
+    background-color: #000000;
+    color: #d9d9d9;
+    font-family: Bebas Neue;
+    font-size: 200%;
+    position: fixed;
+    width: 100%;
+}
+
+nav li {
+    padding: 10px;
+    display: unset;
 }
 
 h1 {
@@ -18,6 +29,7 @@ h2 {
     border-left: 0px;
     border-right: 0px;
     border-style: solid;
+    padding-top: 130px;
 }
 
 p {
@@ -42,12 +54,13 @@ li {
 text-align: right;
 display: grid;
 grid-area: 3;
+font-size: 20px;
 }
 
 a {
     margin: 10px;
-    font-size: 20px;
     text-decoration: none;
+    color: inherit;
 }
 
 ul {
