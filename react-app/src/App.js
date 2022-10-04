@@ -1,8 +1,8 @@
 import './App.css';
 import React from 'react';
 
-export class Main extends React.Component {
-  render() {
+
+ const  Main = () => {
    return (
    <main>
     <div className="mission-grid">
@@ -34,7 +34,6 @@ export class Main extends React.Component {
 <img src="python.png" alt="Python" id="python-img"/>
 </main>
   );
-  }
 }
-    
+
 export default Main
