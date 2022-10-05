@@ -1,14 +1,15 @@
 import React from "react"
+import Main from "./App"
+import ReactDOM from 'react-dom'
 
-export class Navbar extends React.Component {
-    render () {
+const Navbar = () => {
         return (
     <nav>
         <ul>
-            <li onClick={this.setState({home: 'main'})}>Home</li>
+            <li>Home</li>
         <li>Cat Website</li></ul>
     </nav>
         )
-    }
 }
+
 export default Navbar
