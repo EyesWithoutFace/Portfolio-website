@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-website/react-app/public/index.html/static/css/main.ad49a492.css",
-    "main.js": "/Portfolio-website/react-app/public/index.html/static/js/main.6a5de093.js",
+    "main.css": "/Portfolio-website/react-app/build/static/css/main.ad49a492.css",
+    "main.js": "/Portfolio-website/react-app/build/static/js/main.6a5de093.js",
     "index.html": "/Portfolio-website/react-app/public/index.html/index.html",
     "main.ad49a492.css.map": "/Portfolio-website/react-app/public/index.html/static/css/main.ad49a492.css.map",
     "main.6a5de093.js.map": "/Portfolio-website/react-app/public/index.html/static/js/main.6a5de093.js.map"
