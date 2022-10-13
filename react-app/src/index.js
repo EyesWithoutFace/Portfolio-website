@@ -6,10 +6,6 @@ import Navbar from './Navbar'
 const e = React.createElement
 
 
-const domContainer = document.querySelector('#main');
+const domContainer = document.querySelector('#navbar');
 const root = ReactDOM.createRoot(domContainer);
-root.render(e(Main));
-
-const navContainer = document.querySelector('#navbar');
-const navRoot = ReactDOM.createRoot(navContainer);
-navRoot.render(e(Navbar))
+root.render(e(Navbar));

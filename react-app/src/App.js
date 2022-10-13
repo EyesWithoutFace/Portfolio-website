@@ -4,6 +4,7 @@ import Navbar from './Navbar'
 
  const  Main = () => {
    return (
+    
    <main>
     <div className="mission-grid">
     <h2 className="mission-title">Mission</h2>
