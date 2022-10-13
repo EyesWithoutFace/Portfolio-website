@@ -1,12 +1,9 @@
 {
   "files": {
-<<<<<<< HEAD
     "main.css": "/Portfolio-website/react-app/public/index.html/static/css/main.ad49a492.css",
     "main.js": "/Portfolio-website/react-app/public/index.html/static/js/main.f11b3b7c.js",
-=======
     "main.css": "/Portfolio-website/react-app/build/static/css/main.ad49a492.css",
     "main.js": "/Portfolio-website/react-app/build/static/js/main.6a5de093.js",
->>>>>>> 399040e1b9c6cccf70037473d7a44a9dcc152cd5
     "index.html": "/Portfolio-website/react-app/public/index.html/index.html",
     "main.ad49a492.css.map": "/Portfolio-website/react-app/public/index.html/static/css/main.ad49a492.css.map",
     "main.f11b3b7c.js.map": "/Portfolio-website/react-app/public/index.html/static/js/main.f11b3b7c.js.map"
